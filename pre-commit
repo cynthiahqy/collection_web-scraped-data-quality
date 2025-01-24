@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Render the README.qmd file
+quarto render README.qmd
+git add README.md README.qmd
