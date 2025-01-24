@@ -30,7 +30,7 @@ git submodule update --remote --rebase
 Crop & transparent background:
 
 ``` zsh
-convert filename.png -trim -transparent white filename.png
+magick convert filename.png -trim -transparent white filename.png
 ```
 
 For details see:
@@ -42,11 +42,19 @@ To make sure this README renders every time you add a new commit, move
 the file `pre-commit` to `.git/hooks/` and make the script executable:
 `chmod +x .git/hooks/pre-commit`
 
+To skip the render when you commit add the `--no-verify` flag:
+
+    git commit --no-verify
+
 ## Images
 
 Make sure to render README.qmd again after adding new images
 
 ## Illustrations
+
+illustrations/diagram_RCT-framework.png
+
+![](illustrations/diagram_RCT-framework.png)
 
 ## Plots
 
