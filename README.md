@@ -30,7 +30,7 @@ git submodule update --remote --rebase
 Crop & transparent background:
 
 ``` zsh
-magick convert filename.png -trim -transparent white filename.png
+magick filename.png -trim -transparent white filename.png
 ```
 
 For details see:
