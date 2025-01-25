@@ -50,6 +50,20 @@ To skip the render when you commit add the `--no-verify` flag:
 
 Make sure to render README.qmd again after adding new images
 
+## Graphics
+
+graphics/diagram_matrix-academic.png
+
+![](graphics/diagram_matrix-academic.png)
+
+graphics/diagram_matrix-industry.png
+
+![](graphics/diagram_matrix-industry.png)
+
+graphics/source
+
+![graphics/source](graphics/source.png)
+
 ## Illustrations
 
 illustrations/diagram_RCT-framework.png
