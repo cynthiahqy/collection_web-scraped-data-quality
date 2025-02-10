@@ -60,10 +60,6 @@ graphics/diagram_matrix-industry.png
 
 ![](graphics/diagram_matrix-industry.png)
 
-graphics/source
-
-![graphics/source](graphics/source.png)
-
 ## Illustrations
 
 illustrations/diagram_PRITS-framework.png
@@ -83,3 +79,7 @@ illustrations/diagram_RCT-framework.png
 source/diagram_PRITS-framework.note
 
 ![](source/diagram_PRITS-framework.note)
+
+source/matrix-diagrams
+
+![source/matrix-diagrams](source/matrix-diagrams.png)
