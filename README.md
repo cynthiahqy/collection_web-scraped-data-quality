@@ -73,13 +73,3 @@ illustrations/diagram_RCT-framework.png
 ## Plots
 
 ## Screenshots
-
-## Source
-
-source/diagram_PRITS-framework.note
-
-![](source/diagram_PRITS-framework.note)
-
-source/matrix-diagrams
-
-![source/matrix-diagrams](source/matrix-diagrams.png)

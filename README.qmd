@@ -55,7 +55,7 @@ Make sure to render README.qmd again after adding new images
 #| output: asis
 #| echo: false
 #| cache: false
-dirs <- fs::dir_ls(type = "directory")
+dirs <- fs::dir_ls(type = "directory", glob = "source", invert = TRUE)
 
 catImages <- function(folder){
   img_files <- fs::dir_ls(folder) |> sort()
