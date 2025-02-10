@@ -66,6 +66,10 @@ graphics/source
 
 ## Illustrations
 
+illustrations/diagram_PRITS-framework.png
+
+![](illustrations/diagram_PRITS-framework.png)
+
 illustrations/diagram_RCT-framework.png
 
 ![](illustrations/diagram_RCT-framework.png)
@@ -73,3 +77,9 @@ illustrations/diagram_RCT-framework.png
 ## Plots
 
 ## Screenshots
+
+## Source
+
+source/diagram_PRITS-framework.note
+
+![](source/diagram_PRITS-framework.note)
