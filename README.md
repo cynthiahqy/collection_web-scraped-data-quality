@@ -66,6 +66,10 @@ illustrations/Diagram_PRITES-framework.png
 
 ![](illustrations/Diagram_PRITES-framework.png)
 
+illustrations/Diagram_PRITES-numbered.png
+
+![](illustrations/Diagram_PRITES-numbered.png)
+
 illustrations/diagram_PRITS-framework.png
 
 ![](illustrations/diagram_PRITS-framework.png)
