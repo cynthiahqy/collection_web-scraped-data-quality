@@ -62,6 +62,10 @@ graphics/diagram_matrix-industry.png
 
 ## Illustrations
 
+illustrations/Diagram_PRITES-framework.png
+
+![](illustrations/Diagram_PRITES-framework.png)
+
 illustrations/diagram_PRITS-framework.png
 
 ![](illustrations/diagram_PRITS-framework.png)
