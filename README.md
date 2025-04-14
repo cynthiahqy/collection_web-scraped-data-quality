@@ -52,6 +52,14 @@ Make sure to render README.qmd again after adding new images
 
 ## Graphics
 
+graphics/diagram_alcohol-dataset-process.png
+
+![](graphics/diagram_alcohol-dataset-process.png)
+
+graphics/diagram_collaboration-opportunities_v02.png
+
+![](graphics/diagram_collaboration-opportunities_v02.png)
+
 graphics/diagram_matrix-academic.png
 
 ![](graphics/diagram_matrix-academic.png)
@@ -80,4 +88,12 @@ illustrations/diagram_RCT-framework.png
 
 ## Plots
 
+plots/display-gg-wine-top3-store-color-1.png
+
+![](plots/display-gg-wine-top3-store-color-1.png)
+
 ## Screenshots
+
+screenshots/harmonisation-3-tabs.png
+
+![](screenshots/harmonisation-3-tabs.png)
