@@ -92,9 +92,21 @@ illustrations/diagram_RCT-framework.png
 
 ## Plots
 
+plots/display-anomaly.png
+
+![](plots/display-anomaly.png)
+
 plots/display-gg-wine-top3-store-color-1.png
 
 ![](plots/display-gg-wine-top3-store-color-1.png)
+
+plots/display-marc-cat-facet-hist-log10-1.png
+
+![](plots/display-marc-cat-facet-hist-log10-1.png)
+
+plots/display-product-state-matrix.png
+
+![](plots/display-product-state-matrix.png)
 
 ## Screenshots
 
