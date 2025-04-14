@@ -82,6 +82,10 @@ illustrations/Diagram_PRITES-numbered.png
 
 ![](illustrations/Diagram_PRITES-numbered.png)
 
+illustrations/diagram_PRITES-provenance-artefacts-tritone.png
+
+![](illustrations/diagram_PRITES-provenance-artefacts-tritone.png)
+
 illustrations/diagram_PRITS-framework.png
 
 ![](illustrations/diagram_PRITS-framework.png)
@@ -89,6 +93,14 @@ illustrations/diagram_PRITS-framework.png
 illustrations/diagram_RCT-framework.png
 
 ![](illustrations/diagram_RCT-framework.png)
+
+illustrations/PRITES-six-task-icons
+
+![illustrations/PRITES-six-task-icons](illustrations/PRITES-six-task-icons.png)
+
+illustrations/PRITES-twotone
+
+![illustrations/PRITES-twotone](illustrations/PRITES-twotone.png)
 
 ## Plots
 
