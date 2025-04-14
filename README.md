@@ -68,6 +68,10 @@ graphics/diagram_matrix-industry.png
 
 ![](graphics/diagram_matrix-industry.png)
 
+graphics/diagram_project-overview.png
+
+![](graphics/diagram_project-overview.png)
+
 graphics/pptx-matrix
 
 ![graphics/pptx-matrix](graphics/pptx-matrix.png)
